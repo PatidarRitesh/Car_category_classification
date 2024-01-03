@@ -1,0 +1,11 @@
+pandas
+matplotlib
+transformers
+torch
+keras==2.12.0
+tensorflow
+scikit-learnx
+bs4
+pypdf2
+wordcloud
+```
